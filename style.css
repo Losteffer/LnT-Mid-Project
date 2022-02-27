@@ -181,8 +181,22 @@ color:darksalmon;
     margin: auto;
     align-items: center;
     flex-wrap: wrap;
+    padding-bottom: 30px;
 }
 
+.about .about-content .right .bhs {
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.about .about-content .right .software {
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    color: white;
+}
 /* PORTOFOLIO */
  .portofolio .title::after{
      content: "My Works";
